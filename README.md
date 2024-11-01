@@ -1,7 +1,7 @@
 
 # CosmicStar
 > [!TIP] 
-> ## Solana Airdr0p Bot. This bot can autoget airdrop token, supports multiple chain network such as Solana, BTC, Ethereum. is an efficient and secure solution for automated trading, sniping of coins on the Solana blockchain. Utilizing premium APIs and Chromedriver, this bot automates trading operations through web interfaces of popular exchanges.
+> ## Solana Airdr0p Bot. This bot can autoget airdrop token, supports network Solana. is an efficient and secure solution for automated trading, coins on the Solana blockchain. Utilizing premium APIs and Chromedriver, this bot automates trading operations web interfaces of popular exchanges.
 ## Getting Started:
 
  ### Installation
